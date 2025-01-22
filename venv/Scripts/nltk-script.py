@@ -2,6 +2,7 @@
 # EASY-INSTALL-ENTRY-SCRIPT: 'nltk==3.5','console_scripts','nltk'
 import re
 import sys
+ 
 
 # for compatibility with easy_install; see #2198
 __requires__ = 'nltk==3.5'
